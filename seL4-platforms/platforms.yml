@@ -6,6 +6,8 @@
 
 # Hardware and simulation platform definitions for seL4 builds.
 
+# This is a dummy comment
+
 modes: [32, 64]
 architectures: [x86, arm, riscv]
 
